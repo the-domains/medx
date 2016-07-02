@@ -1,0 +1,14 @@
+layout_spectrum: 0.4030604793224484
+typography_spectrum: 0.16089204465970397
+color:
+  brandStrength: 0.9336415426805615
+  lightness: 0.56491469591856
+  saturation: 0.6001781199593097
+  rhythmicContrast: 0.29174265381880105
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Medx
