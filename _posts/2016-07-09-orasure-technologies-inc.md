@@ -31,8 +31,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.orasure.com/'
 title: 'OraSure Technologies, Inc.'
-datePublished: '2016-07-09T17:53:29.803Z'
-dateModified: '2016-07-09T17:52:47.855Z'
+datePublished: '2016-07-09T17:59:48.514Z'
+dateModified: '2016-07-09T17:53:10.174Z'
 starred: false
 sourcePath: _posts/2016-07-09-orasure-technologies-inc.md
 inFeed: true
